@@ -1,1 +1,1 @@
-Isso significa que qualquer desenvolvedor numa equipe pode gerenciar o código-fonte e seu histórico de mudanças usando ferramentas de linha de comandos de Git – desde que tenha sido concedido o acesso para isso, é claro.
+Manoela - a vantagem é poder receber e dar ajuda nos repositorios. 
