@@ -1,2 +1,16 @@
+
 (Moara)
 Isso significa que qualquer desenvolvedor numa equipe pode gerenciar o código-fonte e seu histórico de mudanças usando ferramentas de linha de comandos de Git – desde que tenha sido concedido o acesso para isso, é claro.
+
+(MANOELA)
+A vantagem é poder receber e dar ajuda nos repositorios. 
+
+
+(NEREU)
+Git é bom pq sim
+
+(CAMILA)
+As vantagens de usar o git é o fácil compartilhamento de código.
+esta ferramenta permite apresentar nosso portifólio de código a empresas e amigos.
+
+
