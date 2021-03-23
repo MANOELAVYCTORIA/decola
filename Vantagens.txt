@@ -1,1 +1,6 @@
+(LOCAL)
 Git é bom pq sim
+
+(REMOTO)
+As vantagens de usar o git é o fácil compartilhamento de código.
+esta ferramenta permite apresentar nosso portifólio de código a empresas e amigos.
