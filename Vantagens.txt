@@ -1,1 +1,11 @@
-Manoela - a vantagem é poder receber e dar ajuda nos repositorios. 
+(MANOELA)
+A vantagem é poder receber e dar ajuda nos repositorios. 
+
+
+(NEREU)
+Git é bom pq sim
+
+(CAMILA)
+As vantagens de usar o git é o fácil compartilhamento de código.
+esta ferramenta permite apresentar nosso portifólio de código a empresas e amigos.
+
