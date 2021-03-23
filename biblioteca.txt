@@ -1,1 +1,5 @@
-git init 
+(Moara) git init
+
+(MANOELA) Git status – exibe status do repositório e arquivos
+Git add arquivo – Adiciona arquivos ao repositório e/ou ao commit. 
+Git commit – m “mensagem” – fecha o “pacote”(commit).
