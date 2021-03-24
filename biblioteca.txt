@@ -1,1 +1,10 @@
-git init 
+(Moara) Git init - inicializa um repositório local
+
+(MANOELA) Git status – exibe status do repositório e arquivos
+Git add arquivo – Adiciona arquivos ao repositório e/ou ao commit. 
+Git commit – m “mensagem” – fecha o “pacote”(commit).
+
+(NEREU) Git clone - Baixa um repositório remoto e sincroniza com a máquina local
+
+(Camila) Git checkout 'nome da branch' - Acessar a branch.
+         Git branch 'nome da branch'- Cria a branch.
